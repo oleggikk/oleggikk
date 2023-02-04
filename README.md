@@ -12,7 +12,7 @@
 ### :woman_technologist: About Me :
 - 🔭 I’m currently studing at Higher School of Economics on Business-Informatics (Computer Science)
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 
+- 📫 In my free time, I solve problems on LeetCode and read tech articles.
 
 
 
