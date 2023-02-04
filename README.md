@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  ### I'm Oleg.
 </div>
+<h1> I'm Oleg. </h1>
 
 
 - 🔭 I’m currently studing at Higher School of Economics on Business-Informatics (Computer Science)
