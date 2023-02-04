@@ -2,11 +2,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1> I'm Oleg. </h1>
+<h1> 
+  I'm Oleg. 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+---
 
+### :woman_technologist: About Me :
 - 🔭 I’m currently studing at Higher School of Economics on Business-Informatics (Computer Science)
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
+- 
 
 
 
