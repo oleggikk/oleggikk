@@ -17,7 +17,7 @@
 
 - 📫 In my free time, I solve problems on LeetCode and read tech articles.
 
-- 💬 Ask me about **Dreambooth, Stable Diffusion**
+- 💬 Ask me about **Dreambooth, Stable Diffusion, Midjourney**
 
 - 📫 How to reach me **oleg.y07.10.03@gmail.com**
 
